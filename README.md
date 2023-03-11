@@ -18,3 +18,4 @@ Text File
 
 2 Highest Frequently Word
 
+![out](https://user-images.githubusercontent.com/70679523/224509528-8a5104cf-63ff-403e-8edd-da70d838b066.jpg)
